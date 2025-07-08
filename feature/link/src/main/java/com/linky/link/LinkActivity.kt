@@ -26,6 +26,7 @@ class LinkActivity : ComponentActivity() {
             val scaffoldState = rememberScaffoldState()
 
             LinkyLinkTheme {
+                // sdfasd
                 Scaffold(scaffoldState = scaffoldState) { paddingValues ->
                     Surface(
                         modifier = Modifier
